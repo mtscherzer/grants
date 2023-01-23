@@ -1,0 +1,49 @@
+---
+title: "Differential Effects of Mutant-p53 on BRAF^V600E^ Lung Tumorigenesis"
+keywords:
+  - markdown
+  - publishing
+  - manubot
+lang: en-US
+authors:
+  - name: Michael Scherzer
+    orcid: 0000-0001-9092-0529
+    email: michael.scherzer@hci.utah.edu
+    affiliations:
+      - Department of Oncological Sciences, University of Utah
+  - name: Aria Vaishnavi
+    initials: AV
+    orcid: 0000-0002-7814-3234
+    email: aria.vaishnavi@hci.utah.edu
+    affiliations:
+      -Huntsman Cancer Institute
+  - name: Annie Liu
+    initials: AL
+    orcid: none
+    email: annie.liu@hci.utah.edu
+    affiliations:
+      - Department of dermatology,Huntsman Cancer Institute
+  - name: Mona Foth
+    initials: MF
+    orcid: 0000-0001-6507-8114
+    email: mona.foth@hci.utah.edu
+    affiliations:
+      - Department of dermatology,Huntsman Cancer Institute
+  - name: Phaedra Ghazi
+    initials: PG
+    orcid: 0000-0002-0884-9442
+    email: phaedra.ghazi@hci.utah.edu
+    affiliations:
+      - department of Oncological Sciences, University of Utah
+  - name: Gigi Lozano
+    initials: GL
+    orcid: none
+    email: gglozano@mdanderson.org
+    affiliations:
+      - Department of Genetics, University of Texas MD Anderson Cancer Center
+  - name: Martin McMahon (Corresponding Author)
+    initials: MM
+    orcid: 0000-0003-2812-1042
+    email: martin.mcmahon@hci.utah.edu
+    affiliations:
+      - Department of dermatology,Huntsman Cancer Institute
